@@ -1,3 +1,6 @@
-# frida-objc-bridge
+# mulle-frida-objc-bridge
 
-Objective-C runtime interop from Frida.
+TODO: Create mulle-objc runtime interop from Frida.
+
+SO FAR NO CODE WRITTEN YET.
+WHY NOT PICK UP THE PROJECT ? :)
